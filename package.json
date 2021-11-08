@@ -53,6 +53,7 @@
     "react-router": "^5.2.0",
     "react-router-bootstrap": "^0.25.0",
     "react-router-dom": "^5.2.0",
+    "stripe": "^8.185.0",
     "yarn": "^1.22.10"
   }
 }
